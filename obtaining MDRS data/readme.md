@@ -1,4 +1,4 @@
-### Contents of this repository
+### Contents of this folder
 
 You will find my code used to obtain crew reports from the MDRS website[ MDRS website](http://mdrs.marssociety.org/)   . Note: use good scraping practices and contact the MDRS administration first. I got their explicit permission to obtain and use these data. Jupyter notebooks in this repository contain code for obtaining:
 1. Biographic data of crew members (crew number, name, gender, role in a crew, short biography). 
